@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/next-bulletin-board/static/css/main.c50342c8.css",
+    "main.js": "/next-bulletin-board/static/js/main.75dc91a8.js",
+    "static/media/colorful-2174045.svg": "/next-bulletin-board/static/media/colorful-2174045.3b58735fe5c525d80abd.svg",
+    "index.html": "/next-bulletin-board/index.html",
+    "main.c50342c8.css.map": "/next-bulletin-board/static/css/main.c50342c8.css.map",
+    "main.75dc91a8.js.map": "/next-bulletin-board/static/js/main.75dc91a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50342c8.css",
+    "static/js/main.75dc91a8.js"
+  ]
+}
